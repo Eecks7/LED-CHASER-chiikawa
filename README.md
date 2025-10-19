@@ -1,2 +1,1 @@
-LED Chaser Chiikawa PCB board
-Abigail Chan
+LED Chaser Chiikawa PCB board By Abigail Chan
